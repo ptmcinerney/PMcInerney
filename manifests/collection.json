@@ -13,5 +13,11 @@
     "@type" : "sc:Manifest",
     "@id" : "https://ptmcinerney.github.io/PMcInerney/manifests/mAmanifest.json",
     "label" : "mementoArtem"
+  }, {
+    "id" : "https://ptmcinerney.github.io/PMcInerney/manifests/mA_manifest_v4.json",
+    "label" : {
+      "none" : [ "mementoArtem" ]
+    },
+    "type" : "Manifest"
   } ]
 }
