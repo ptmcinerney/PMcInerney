@@ -19,5 +19,11 @@
       "none" : [ "mementoArtem" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://ptmcinerney.github.io/PMcInerney/manifests/manifest.json",
+    "label" : {
+      "en" : [ "mA_manifest_3" ]
+    },
+    "type" : "Manifest"
   } ]
 }
