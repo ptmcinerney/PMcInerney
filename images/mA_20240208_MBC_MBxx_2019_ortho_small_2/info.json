@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 51,
+    "height" : 63
+  }, {
+    "width" : 102,
+    "height" : 125
+  }, {
+    "width" : 203,
+    "height" : 250
+  }, {
+    "width" : 406,
+    "height" : 500
+  }, {
+    "width" : 811,
+    "height" : 1000
+  }, {
+    "width" : 1621,
+    "height" : 2000
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1621,
+  "@id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_2",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2000
+}

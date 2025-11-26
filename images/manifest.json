@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_3/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "mA_20240208_MBC_MBxx_2019_ortho_small_3"
+                ]
+            },
+            "height": 2000,
+            "width": 1621,
+            "items": [
+                {
+                    "id": "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_3/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_3/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_3/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 51,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 102,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 203,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 406,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 811,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 1621,
+                                                "height": 2000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1621,
+                                        "@id": "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_3",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_3/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://ptmcinerney.github.io/PMcInerney/images/mA_20221021001_ZAB_LPPx_2022_ortho_small_1/canvas/",
             "type": "Canvas",
             "label": {
@@ -97,8 +178,8 @@
                     "mA_20240208_MBC_MBxx_2019_ortho_small_2"
                 ]
             },
-            "height": 3216,
-            "width": 2606,
+            "height": 2000,
+            "width": 1621,
             "items": [
                 {
                     "id": "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_2/annotation/AnnoPage",
@@ -109,7 +190,7 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_2/full/max/0/default.jpg",
+                                "id": "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_2/full/full/0/default.jpg",
                                 "type": "Image",
                                 "service": [
                                     {
@@ -130,36 +211,36 @@
                                         "protocol": "http://iiif.io/api/image",
                                         "sizes": [
                                             {
-                                                "width": 82,
-                                                "height": 101
+                                                "width": 51,
+                                                "height": 63
                                             },
                                             {
-                                                "width": 163,
-                                                "height": 201
+                                                "width": 102,
+                                                "height": 125
                                             },
                                             {
-                                                "width": 326,
-                                                "height": 402
+                                                "width": 203,
+                                                "height": 250
                                             },
                                             {
-                                                "width": 652,
-                                                "height": 804
+                                                "width": 406,
+                                                "height": 500
                                             },
                                             {
-                                                "width": 1303,
-                                                "height": 1608
+                                                "width": 811,
+                                                "height": 1000
                                             },
                                             {
-                                                "width": 2606,
-                                                "height": 3216
+                                                "width": 1621,
+                                                "height": 2000
                                             }
                                         ],
-                                        "profile": "level0",
-                                        "width": 2606,
-                                        "id": "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_2",
-                                        "type": "ImageService3",
-                                        "@context": "http://iiif.io/api/image/3/context.json",
-                                        "height": 3216
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1621,
+                                        "@id": "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_2",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2000,
+                                        "@type": "ImageService2"
                                     }
                                 ],
                                 "format": "image/jpeg"
