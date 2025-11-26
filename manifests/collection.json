@@ -1,0 +1,13 @@
+{
+  "id" : "https://ptmcinerney.github.io/PMcInerney/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in ptmcinerney/PMcInerney project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ptmcinerney.github.io/PMcInerney/manifests/mA_manifest.json",
+    "label" : "mementoArtem"
+  } ]
+}
