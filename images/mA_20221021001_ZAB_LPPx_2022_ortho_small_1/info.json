@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 32,
+    "height" : 20
+  }, {
+    "width" : 63,
+    "height" : 40
+  }, {
+    "width" : 125,
+    "height" : 80
+  }, {
+    "width" : 250,
+    "height" : 159
+  }, {
+    "width" : 500,
+    "height" : 317
+  }, {
+    "width" : 1000,
+    "height" : 633
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1000,
+  "@id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20221021001_ZAB_LPPx_2022_ortho_small_1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 633
+}
