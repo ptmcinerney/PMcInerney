@@ -1,0 +1,137 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://ptmcinerney.github.io/PMcInerney/manifests/manifest.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "mA_manifest_3" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/x71934ank8s-mig6cocq/canvas/0zqjmwl6bp5-mig6deke",
+    "type" : "Canvas",
+    "height" : 2000,
+    "width" : 1621,
+    "label" : {
+      "en" : [ "mA_20240208_MBC_MBxx_2019" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_3/full/406,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 500,
+      "width" : 406
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/x71934ank8s-mig6cocq/canvas/0zqjmwl6bp5-mig6deke/annotation-page/em24aq0max-mig6deke",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/x71934ank8s-mig6cocq/annotation/u5uslm2leo9-mig6dekd",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/x71934ank8s-mig6cocq/canvas/0zqjmwl6bp5-mig6deke",
+        "body" : {
+          "id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_3/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2000,
+          "width" : 1621,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 51,
+              "height" : 63
+            }, {
+              "width" : 102,
+              "height" : 125
+            }, {
+              "width" : 203,
+              "height" : 250
+            }, {
+              "width" : 406,
+              "height" : 500
+            }, {
+              "width" : 811,
+              "height" : 1000
+            }, {
+              "width" : 1621,
+              "height" : 2000
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1621,
+            "@id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_3",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2000
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/x71934ank8s-mig6cocq/canvas/3za5vijbx07-mig6g02d",
+    "type" : "Canvas",
+    "height" : 633,
+    "width" : 1000,
+    "label" : {
+      "en" : [ "mA_20221021001_ZAB_LPPx_2022" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20221021001_ZAB_LPPx_2022_ortho_small_1/full/500,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 317,
+      "width" : 500
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/x71934ank8s-mig6cocq/canvas/3za5vijbx07-mig6g02d/annotation-page/blmai7tca9-mig6g02d",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/x71934ank8s-mig6cocq/annotation/0g6z9ieyv2h-mig6g02d",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/x71934ank8s-mig6cocq/canvas/3za5vijbx07-mig6g02d",
+        "body" : {
+          "id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20221021001_ZAB_LPPx_2022_ortho_small_1/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 633,
+          "width" : 1000,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 32,
+              "height" : 20
+            }, {
+              "width" : 63,
+              "height" : 40
+            }, {
+              "width" : 125,
+              "height" : 80
+            }, {
+              "width" : 250,
+              "height" : 159
+            }, {
+              "width" : 500,
+              "height" : 317
+            }, {
+              "width" : 1000,
+              "height" : 633
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1000,
+            "@id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20221021001_ZAB_LPPx_2022_ortho_small_1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 633
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
