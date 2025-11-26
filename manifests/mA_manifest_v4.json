@@ -1,0 +1,82 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://ptmcinerney.github.io/PMcInerney/manifests/mA_manifest_v4.json",
+  "type" : "Manifest",
+  "label" : {
+    "none" : [ "mementoArtem" ]
+  },
+  "summary" : {
+    "en" : [ "Test mA manifest" ]
+  },
+  "requiredStatement" : {
+    "label" : {
+      "none" : [ "Attribution" ]
+    },
+    "value" : {
+      "none" : [ "[Click to edit attribution]" ]
+    }
+  },
+  "items" : [ {
+    "id" : "http://3db79afc-07d6-459d-ba56-f8da206f6844",
+    "type" : "Canvas",
+    "height" : 2468,
+    "width" : 2000,
+    "label" : {
+      "none" : [ "mA_1\n" ]
+    },
+    "items" : [ {
+      "id" : "http://3db79afc-07d6-459d-ba56-f8da206f6844/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://818b4250-72ec-41f9-afa8-9f92d2386bce",
+        "type" : "Annotation",
+        "@context" : "http://iiif.io/api/presentation/3/context.json",
+        "motivation" : "painting",
+        "target" : "http://3db79afc-07d6-459d-ba56-f8da206f6844",
+        "body" : {
+          "id" : "https://iiif.archive.org/image/iiif/2/mA_20240208_MBC_MBxx_2019_ortho_1%252fmA_20240208_MBC_MBxx_2019_ortho_1.tif/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2468,
+          "width" : 2000,
+          "service" : [ {
+            "@id" : "https://iiif.archive.org/image/iiif/2/mA_20240208_MBC_MBxx_2019_ortho_1%2fmA_20240208_MBC_MBxx_2019_ortho_1.tif",
+            "@type" : "ImageService2",
+            "profile" : "level2"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "http://d0b71a32-5c9d-4a22-b00f-44c860ea432b",
+    "type" : "Canvas",
+    "height" : 633,
+    "width" : 1000,
+    "label" : {
+      "none" : [ "mA_2" ]
+    },
+    "items" : [ {
+      "id" : "http://d0b71a32-5c9d-4a22-b00f-44c860ea432b/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://c100d85e-dbdf-46f1-8516-c3c05d4307a7",
+        "type" : "Annotation",
+        "@context" : "http://iiif.io/api/presentation/3/context.json",
+        "motivation" : "painting",
+        "target" : "http://d0b71a32-5c9d-4a22-b00f-44c860ea432b",
+        "body" : {
+          "id" : "https://iiif.archive.org/image/iiif/2/mA_20221021001_ZAB_LPPx_2022_ortho_small_1%252fmA_20221021001_ZAB_LPPx_2022_ortho_small_1.jpg/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 633,
+          "width" : 1000,
+          "service" : [ {
+            "@id" : "https://iiif.archive.org/image/iiif/2/mA_20221021001_ZAB_LPPx_2022_ortho_small_1%2fmA_20221021001_ZAB_LPPx_2022_ortho_small_1.jpg",
+            "@type" : "ImageService2",
+            "profile" : "level2"
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
