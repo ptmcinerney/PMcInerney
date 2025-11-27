@@ -25,5 +25,11 @@
       "en" : [ "mA_manifest_3" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://ptmcinerney.github.io/PMcInerney/manifests/mA_manifest_test.json",
+    "label" : {
+      "en" : [ "mementoArtem Digital Street Art Archive" ]
+    },
+    "type" : "Manifest"
   } ]
 }
