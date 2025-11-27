@@ -1,0 +1,265 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://ptmcinerney.github.io/PMcInerney/manifests/mA_manifest_test.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "mementoArtem Digital Street Art Archive" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/3jpqx96sjgv-mihsqpgr/canvas/tk4tspqj54c-mihsu16w",
+    "type" : "Canvas",
+    "height" : 2000,
+    "width" : 1621,
+    "label" : {
+      "en" : [ "mA_20240208_MBC_MBxx_201" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_2/full/406,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 500,
+      "width" : 406
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/3jpqx96sjgv-mihsqpgr/canvas/tk4tspqj54c-mihsu16w/annotation-page/koiv5m2gv4h-mihsu16w",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/3jpqx96sjgv-mihsqpgr/annotation/3a4k9ndqrt6-mihsu16v",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/3jpqx96sjgv-mihsqpgr/canvas/tk4tspqj54c-mihsu16w",
+        "body" : {
+          "id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_2/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2000,
+          "width" : 1621,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 51,
+              "height" : 63
+            }, {
+              "width" : 102,
+              "height" : 125
+            }, {
+              "width" : 203,
+              "height" : 250
+            }, {
+              "width" : 406,
+              "height" : 500
+            }, {
+              "width" : 811,
+              "height" : 1000
+            }, {
+              "width" : 1621,
+              "height" : 2000
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1621,
+            "@id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20240208_MBC_MBxx_2019_ortho_small_2",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2000
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/3jpqx96sjgv-mihsqpgr/canvas/y9cz5m6hxxr-miht827a",
+    "type" : "Canvas",
+    "height" : 633,
+    "width" : 1000,
+    "label" : {
+      "en" : [ "mA_20221021001_ZAB_LPPx_2022" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20221021001_ZAB_LPPx_2022_ortho_small_1/full/500,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 317,
+      "width" : 500
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/3jpqx96sjgv-mihsqpgr/canvas/y9cz5m6hxxr-miht827a/annotation-page/7u1hdo7fubt-miht827a",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/3jpqx96sjgv-mihsqpgr/annotation/amamj0l9u5r-miht8279",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/3jpqx96sjgv-mihsqpgr/canvas/y9cz5m6hxxr-miht827a",
+        "body" : {
+          "id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20221021001_ZAB_LPPx_2022_ortho_small_1/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 633,
+          "width" : 1000,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 32,
+              "height" : 20
+            }, {
+              "width" : 63,
+              "height" : 40
+            }, {
+              "width" : 125,
+              "height" : 80
+            }, {
+              "width" : 250,
+              "height" : 159
+            }, {
+              "width" : 500,
+              "height" : 317
+            }, {
+              "width" : 1000,
+              "height" : 633
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1000,
+            "@id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20221021001_ZAB_LPPx_2022_ortho_small_1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 633
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/3jpqx96sjgv-mihsqpgr/canvas/n1r6uaha8ja-mihta3ce",
+    "type" : "Canvas",
+    "height" : 1053,
+    "width" : 2000,
+    "label" : {
+      "en" : [ "mA_20240105_JAG_CGxx_2021" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20240105_DFS_CGxx_2021/full/500,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 264,
+      "width" : 500
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/3jpqx96sjgv-mihsqpgr/canvas/n1r6uaha8ja-mihta3ce/annotation-page/bu4yrjmsvtw-mihta3ce",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/3jpqx96sjgv-mihsqpgr/annotation/mr00vucylm-mihta3ce",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/3jpqx96sjgv-mihsqpgr/canvas/n1r6uaha8ja-mihta3ce",
+        "body" : {
+          "id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20240105_DFS_CGxx_2021/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1053,
+          "width" : 2000,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 63,
+              "height" : 33
+            }, {
+              "width" : 125,
+              "height" : 66
+            }, {
+              "width" : 250,
+              "height" : 132
+            }, {
+              "width" : 500,
+              "height" : 264
+            }, {
+              "width" : 1000,
+              "height" : 527
+            }, {
+              "width" : 2000,
+              "height" : 1053
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2000,
+            "@id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20240105_DFS_CGxx_2021",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1053
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/3jpqx96sjgv-mihsqpgr/canvas/d9o4ww0qypn-mihtfa06",
+    "type" : "Canvas",
+    "height" : 1671,
+    "width" : 2000,
+    "label" : {
+      "en" : [ "mA_20231121001_TAQ_LAUR_2019" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20231121001_TAQ_LAUR_2019_ortho/full/500,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 418,
+      "width" : 500
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/3jpqx96sjgv-mihsqpgr/canvas/d9o4ww0qypn-mihtfa06/annotation-page/cthho32xtyw-mihtfa06",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/3jpqx96sjgv-mihsqpgr/annotation/nhyzlro6d6-mihtfa06",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/3jpqx96sjgv-mihsqpgr/canvas/d9o4ww0qypn-mihtfa06",
+        "body" : {
+          "id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20231121001_TAQ_LAUR_2019_ortho/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1671,
+          "width" : 2000,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 63,
+              "height" : 53
+            }, {
+              "width" : 125,
+              "height" : 105
+            }, {
+              "width" : 250,
+              "height" : 209
+            }, {
+              "width" : 500,
+              "height" : 418
+            }, {
+              "width" : 1000,
+              "height" : 836
+            }, {
+              "width" : 2000,
+              "height" : 1671
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2000,
+            "@id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20231121001_TAQ_LAUR_2019_ortho",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1671
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
