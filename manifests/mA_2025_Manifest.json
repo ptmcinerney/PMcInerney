@@ -1,0 +1,204 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://ptmcinerney.github.io/PMcInerney/manifests/mA_2025_Manifest.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "mA 2025" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/pu9e3wywpm-mihwk4ww/canvas/c6ad0e1oyy-mihwle6f",
+    "type" : "Canvas",
+    "height" : 633,
+    "width" : 1000,
+    "label" : {
+      "en" : [ "mA_20221021001_ZAB_LPPx_2022" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://iiif.archive.org/image/iiif/2/mA_20221021001_ZAB_LPPx_2022%2fmA_20221021001_ZAB_LPPx_2022.jpg/full/500,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 317,
+      "width" : 500
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/pu9e3wywpm-mihwk4ww/canvas/c6ad0e1oyy-mihwle6f/annotation-page/kmj74nhyuq-mihwle6f",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/pu9e3wywpm-mihwk4ww/annotation/s0b6kmh9ipr-mihwle6e",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/pu9e3wywpm-mihwk4ww/canvas/c6ad0e1oyy-mihwle6f",
+        "body" : {
+          "id" : "https://iiif.archive.org/image/iiif/2/mA_20221021001_ZAB_LPPx_2022%2fmA_20221021001_ZAB_LPPx_2022.jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 633,
+          "width" : 1000,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/mA_20221021001_ZAB_LPPx_2022%2fmA_20221021001_ZAB_LPPx_2022.jpg",
+            "protocol" : "http://iiif.io/api/image",
+            "width" : 1000,
+            "height" : 633,
+            "sizes" : [ {
+              "width" : 125,
+              "height" : 79
+            }, {
+              "width" : 250,
+              "height" : 158
+            }, {
+              "width" : 500,
+              "height" : 317
+            }, {
+              "width" : 1000,
+              "height" : 633
+            } ],
+            "tiles" : [ {
+              "width" : 512,
+              "height" : 512,
+              "scaleFactors" : [ 1, 2, 4, 8 ]
+            } ],
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 633000,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/pu9e3wywpm-mihwk4ww/canvas/67umaklcpeb-mihwm9wc",
+    "type" : "Canvas",
+    "height" : 2000,
+    "width" : 1621,
+    "label" : {
+      "en" : [ "mA_20240208_MBC_MBxx_2019" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://iiif.archive.org/image/iiif/2/mA_20240208_MBC_MBxx_2019%2fmA_20240208_MBC_MBxx_2019.jpg/full/405,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 500,
+      "width" : 405
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/pu9e3wywpm-mihwk4ww/canvas/67umaklcpeb-mihwm9wc/annotation-page/h5phlzc6cwt-mihwm9wc",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/pu9e3wywpm-mihwk4ww/annotation/52cn6486qv-mihwm9wb",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/pu9e3wywpm-mihwk4ww/canvas/67umaklcpeb-mihwm9wc",
+        "body" : {
+          "id" : "https://iiif.archive.org/image/iiif/2/mA_20240208_MBC_MBxx_2019%2fmA_20240208_MBC_MBxx_2019.jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2000,
+          "width" : 1621,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/mA_20240208_MBC_MBxx_2019%2fmA_20240208_MBC_MBxx_2019.jpg",
+            "protocol" : "http://iiif.io/api/image",
+            "width" : 1621,
+            "height" : 2000,
+            "sizes" : [ {
+              "width" : 101,
+              "height" : 125
+            }, {
+              "width" : 203,
+              "height" : 250
+            }, {
+              "width" : 405,
+              "height" : 500
+            }, {
+              "width" : 811,
+              "height" : 1000
+            }, {
+              "width" : 1621,
+              "height" : 2000
+            } ],
+            "tiles" : [ {
+              "width" : 512,
+              "height" : 512,
+              "scaleFactors" : [ 1, 2, 4, 8, 16 ]
+            } ],
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 3242000,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/pu9e3wywpm-mihwk4ww/canvas/550h6p2dq3a-mihwmypp",
+    "type" : "Canvas",
+    "height" : 1671,
+    "width" : 2000,
+    "label" : {
+      "en" : [ "mA_20231121001_TAQ_LAUR_2019" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://iiif.archive.org/image/iiif/2/mA_20231121001_TAQ_LAUR_2019%2fmA_20231121001_TAQ_LAUR_2019.jpg/full/500,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 418,
+      "width" : 500
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/pu9e3wywpm-mihwk4ww/canvas/550h6p2dq3a-mihwmypp/annotation-page/xuu1iebpgao-mihwmypp",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/pu9e3wywpm-mihwk4ww/annotation/bqxltczytq4-mihwmypp",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/pu9e3wywpm-mihwk4ww/canvas/550h6p2dq3a-mihwmypp",
+        "body" : {
+          "id" : "https://iiif.archive.org/image/iiif/2/mA_20231121001_TAQ_LAUR_2019%2fmA_20231121001_TAQ_LAUR_2019.jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1671,
+          "width" : 2000,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/mA_20231121001_TAQ_LAUR_2019%2fmA_20231121001_TAQ_LAUR_2019.jpg",
+            "protocol" : "http://iiif.io/api/image",
+            "width" : 2000,
+            "height" : 1671,
+            "sizes" : [ {
+              "width" : 125,
+              "height" : 104
+            }, {
+              "width" : 250,
+              "height" : 209
+            }, {
+              "width" : 500,
+              "height" : 418
+            }, {
+              "width" : 1000,
+              "height" : 836
+            }, {
+              "width" : 2000,
+              "height" : 1671
+            } ],
+            "tiles" : [ {
+              "width" : 512,
+              "height" : 512,
+              "scaleFactors" : [ 1, 2, 4, 8, 16 ]
+            } ],
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 3342000,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
