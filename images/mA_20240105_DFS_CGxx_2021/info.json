@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 63,
+    "height" : 33
+  }, {
+    "width" : 125,
+    "height" : 66
+  }, {
+    "width" : 250,
+    "height" : 132
+  }, {
+    "width" : 500,
+    "height" : 264
+  }, {
+    "width" : 1000,
+    "height" : 527
+  }, {
+    "width" : 2000,
+    "height" : 1053
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2000,
+  "@id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20240105_DFS_CGxx_2021",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1053
+}
