@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 63,
+    "height" : 53
+  }, {
+    "width" : 125,
+    "height" : 105
+  }, {
+    "width" : 250,
+    "height" : 209
+  }, {
+    "width" : 500,
+    "height" : 418
+  }, {
+    "width" : 1000,
+    "height" : 836
+  }, {
+    "width" : 2000,
+    "height" : 1671
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2000,
+  "@id" : "https://ptmcinerney.github.io/PMcInerney/images/mA_20231121001_TAQ_LAUR_2019_ortho",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1671
+}
