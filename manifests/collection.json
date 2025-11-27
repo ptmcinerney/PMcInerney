@@ -37,5 +37,9 @@
       "en" : [ "mA 2025" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ptmcinerney.github.io/PMcInerney/manifests/mementoArtem_manifest_2025.json",
+    "label" : "[Click to edit label]"
   } ]
 }
