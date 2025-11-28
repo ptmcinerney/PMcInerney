@@ -41,5 +41,11 @@
     "@type" : "sc:Manifest",
     "@id" : "https://ptmcinerney.github.io/PMcInerney/manifests/mementoArtem_manifest_2025.json",
     "label" : "[Click to edit label]"
+  }, {
+    "id" : "https://ptmcinerney.github.io/PMcInerney/manifests/mA_manifest_final.json",
+    "label" : {
+      "none" : [ "mementoArtem" ]
+    },
+    "type" : "Manifest"
   } ]
 }
