@@ -1,0 +1,139 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://ptmcinerney.github.io/PMcInerney/manifests/mA_manifest_final.json",
+  "type" : "Manifest",
+  "label" : {
+    "none" : [ "mementoArtem" ]
+  },
+  "summary" : {
+    "en" : [ "[Click to edit description]" ]
+  },
+  "requiredStatement" : {
+    "label" : {
+      "none" : [ "Attribution" ]
+    },
+    "value" : {
+      "none" : [ "[Click to edit attribution]" ]
+    }
+  },
+  "service" : [ {
+    "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/107875548383366475962/4d49b171c05e3536e47153bb3b96350a/search",
+    "@type" : "SearchService1",
+    "profile" : "http://iiif.io/api/search/0/search"
+  } ],
+  "items" : [ {
+    "id" : "http://91b4c05e-2fac-4177-a7c6-32f827539653",
+    "type" : "Canvas",
+    "height" : 633,
+    "width" : 1000,
+    "label" : {
+      "none" : [ "mA_20221021001_ZAB_LPPx_2022" ]
+    },
+    "items" : [ {
+      "id" : "http://91b4c05e-2fac-4177-a7c6-32f827539653/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://406f1548-0883-4bc2-82dc-0067ec4517e6",
+        "type" : "Annotation",
+        "@context" : "http://iiif.io/api/presentation/3/context.json",
+        "motivation" : "painting",
+        "target" : "http://91b4c05e-2fac-4177-a7c6-32f827539653",
+        "body" : {
+          "id" : "https://iiif.archive.org/iiif/mA_20221021001_ZAB_LPPx_2022/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 633,
+          "width" : 1000,
+          "service" : [ {
+            "@id" : "https://iiif.archive.org/iiif/mA_20221021001_ZAB_LPPx_2022",
+            "@type" : "ImageService2",
+            "profile" : "level2"
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://dev.gdmrdigital.com/annotations/1240244679/107875548383366475962/adc3a6ef42909e7bc83a379a5aec4f08.json",
+      "type" : "AnnotationPage",
+      "label" : {
+        "none" : [ "Annotations for canvas mA_20221021001_ZAB_LPPx_2022" ]
+      }
+    } ]
+  }, {
+    "id" : "http://e9148686-bd86-49d2-8f9b-c482ea247e32",
+    "type" : "Canvas",
+    "height" : 2000,
+    "width" : 1621,
+    "label" : {
+      "none" : [ "mA_20240208_MBC_MBxx_2019" ]
+    },
+    "items" : [ {
+      "id" : "http://e9148686-bd86-49d2-8f9b-c482ea247e32/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://7d80e88f-e6f3-4519-acd6-d31898e7c08f",
+        "type" : "Annotation",
+        "@context" : "http://iiif.io/api/presentation/3/context.json",
+        "motivation" : "painting",
+        "target" : "http://e9148686-bd86-49d2-8f9b-c482ea247e32",
+        "body" : {
+          "id" : "https://iiif.archive.org/iiif/mA_20240208_MBC_MBxx_2019/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2000,
+          "width" : 1621,
+          "service" : [ {
+            "@id" : "https://iiif.archive.org/iiif/mA_20240208_MBC_MBxx_2019",
+            "@type" : "ImageService2",
+            "profile" : "level2"
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://dev.gdmrdigital.com/annotations/1240244679/107875548383366475962/f264e833f51fb0eceaf92ce8bdf03d10.json",
+      "type" : "AnnotationPage",
+      "label" : {
+        "none" : [ "Annotations for canvas mA_20240208_MBC_MBxx_2019" ]
+      }
+    } ]
+  }, {
+    "id" : "http://d12e9c2e-e25f-497d-a9b3-ac70b2ac3ae5",
+    "type" : "Canvas",
+    "height" : 1671,
+    "width" : 2000,
+    "label" : {
+      "none" : [ "mA_20231121001_TAQ_LAUR_2019" ]
+    },
+    "items" : [ {
+      "id" : "http://d12e9c2e-e25f-497d-a9b3-ac70b2ac3ae5/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "http://190462fd-eb90-4cc4-931b-c49e6d863416",
+        "type" : "Annotation",
+        "@context" : "http://iiif.io/api/presentation/3/context.json",
+        "motivation" : "painting",
+        "target" : "http://d12e9c2e-e25f-497d-a9b3-ac70b2ac3ae5",
+        "body" : {
+          "id" : "https://iiif.archive.org/iiif/mA_20231121001_TAQ_LAUR_2019/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1671,
+          "width" : 2000,
+          "service" : [ {
+            "@id" : "https://iiif.archive.org/iiif/mA_20231121001_TAQ_LAUR_2019",
+            "@type" : "ImageService2",
+            "profile" : "level2"
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://dev.gdmrdigital.com/annotations/1240244679/107875548383366475962/49893bac5b709bf6b02483840288a564.json",
+      "type" : "AnnotationPage",
+      "label" : {
+        "none" : [ "Annotations for canvas mA_20231121001_TAQ_LAUR_2019" ]
+      }
+    } ]
+  } ]
+}
